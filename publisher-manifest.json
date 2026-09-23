@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "aba87f7d4fd433643fb92935",
+  "owner": "amjgaa",
+  "repo": "page-a8245fb8710e2903d55be13f",
+  "title": "V2P",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a8245fb8710e2903d55be13f",
+      "a": "V2P",
+      "b": "机场官网线路发布页",
+      "entity": "V2P",
+      "brand": "V2P",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "72b25a999d5bc1435dd462dc70c2fbb353658451d4e622be106f55e5d544d8f2",
+      "content": {
+        "primary_entity": "V2P",
+        "keyword1": "V2P",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "V2P 订阅可在 Clash、Shadowrocket、v2rayN、Surge、Stash、Quantumult X 等客户端导入，按设备系统和客户端支持的协议选择对应版本。",
+          "AI_CLIENTS_TITLE": "客户端适配与选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选好套餐，复制订阅链接导入常用客户端即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35 与 ¥85，年付价 ¥150、¥350 与 ¥850，覆盖 100GB 到 1000GB 流量和 3 至 20 台设备同时在线，适用于日常浏览、流媒体与游戏加速等场景，客户端订阅按设备系统选择 Clash、v2rayN、Shadowrocket 等常用工具导入。",
+          "AI_FAQ_ANSWER_1": "V2P 有三档订阅：基础版 ¥15/月或 ¥150/年，含 100GB 流量、3 台设备；旗舰版 ¥35/月或 ¥350/年，含 300GB 流量、5 台设备与 IPLC 专线优化；团队版 ¥85/月或 ¥850/年，含 1000GB 流量、20 台设备和 VIP 节点。",
+          "AI_FAQ_ANSWER_2": "设备数量按套餐区分，基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。超出数量时可升级套餐，或在客户端内断开不用的设备连接。",
+          "AI_FAQ_ANSWER_3": "Windows 端常用 v2rayN 或 Clash Verge，macOS 可用 ClashX 或 Surge，iOS 可选 Shadowrocket 或 Stash，Android 推荐 Clash Meta 或 v2rayNG，路由器可部署 OpenWrt 插件。",
+          "AI_FAQ_ANSWER_4": "在客户端订阅设置中粘贴 V2P 提供的订阅链接，选择更新订阅，客户端会自动拉取节点列表，按需选择线路后连接。订阅链接可在账户面板中复制。",
+          "AI_FAQ_ANSWER_5": "年付方案比按月支付更划算，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。如果只是短期试用，可以先选择月付，确认线路和速度稳定后再考虑转为年付。",
+          "AI_FAQ_INTRO": "套餐差异、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "V2P 有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "同时可以使用多少台设备？",
+          "AI_FAQ_QUESTION_3": "不同设备应该用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "年付和月付如何选择？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路质量三方面对比，快速确定适合自己的套餐档位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人日常使用，100GB 流量与 3 台设备，月付仅 ¥15。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 300GB 流量、5 台设备和 IPLC 专线，适合流媒体与游戏场景。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备和 1000GB 流量，可定制路由并配备专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "按线路等级选择",
+          "AI_GUIDE_INTRO": "从确认套餐到导入订阅，三步完成 V2P 的基本配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "V2P 提供基础版、旗舰版与团队版三档海外加速订阅，流量从每月 100GB 到 1000GB，同时在线设备从 3 台到 20 台，支持常用客户端导入订阅，适配不同设备与使用需求。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐，月付年付灵活选择",
+          "AI_HIGHLIGHT_2": "支持常用客户端订阅导入",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别 ¥150、¥350、¥850，按流量和设备数量选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量和使用场景，在基础版、旗舰版、团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端兼容情况，查看各档套餐对设备数量和线路类型的支持说明。",
+          "AI_STEP_TEXT_3": "在客户端中导入 V2P 订阅链接，更新节点列表后按需选择线路并连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "V2P 海外加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "irwkud.cn",
+    "host": "irwkud.cn"
+  },
+  "file_hashes": {
+    "index.html": "9565e52cad552c38f5157a8f1403148dc1556274223b4c41c8a937544dadac6b",
+    "sitemap.xml": "41623ed2a3b03190215a31b574a2e77b5550d3be1f5c657fb0decaa057adbb38",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "347ffacfc5d4be112cad0a9ed08e983ec758dd1f857bc2c5f9978f39418b876c",
+    "robots.txt": "705213cadc14a7ee33a052ae9f8232949e9e7305701cfb2513e60cada9f96170",
+    "afb319bcb0b00f02053ad7ae739ee51b.txt": "afa5e7bc50810bc9e658748080c7a2cf6d4f78f556eda7bff6022ab054953d0f"
+  },
+  "revision": "665890baa2f77d8874cea9599e75bf9bbb9b36050ff6f144748ec587b7ad6251"
+}
